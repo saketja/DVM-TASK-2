@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353308347661",
+    "firebase_url": "https://friend-list-fdcf0-default-rtdb.firebaseio.com",
+    "project_id": "friend-list-fdcf0",
+    "storage_bucket": "friend-list-fdcf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353308347661:android:68a569c9941c355fecb444",
+        "android_client_info": {
+          "package_name": "com.saket.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353308347661-n8atbas5j856a7rn57uphrvqjnpfmr69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplpEDgTPS-W-XhzAH4uKwT-ccoFZcNMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353308347661-n8atbas5j856a7rn57uphrvqjnpfmr69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
